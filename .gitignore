@@ -1,0 +1,17 @@
+!/client
+!/assembly
+!/script
+# finalement ignore tous les jars, tous les exe, les dlls etc...
+*.jar
+*.war
+*.ear
+*.exe
+*.dll
+*.h
+*.lib
+*.iml
+**/target/
+**/*.releaseBackup
+**/release.properties
+*.zip
+*.idea
